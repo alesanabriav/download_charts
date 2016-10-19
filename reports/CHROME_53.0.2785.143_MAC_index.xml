@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="index"
+    errors="0" failures="0" hostname="" id="" package="index" skipped="0"
+    tests="1" time="4.627" timestamp="Wed, 19 Oct 2016 00:23:36 GMT">
+  
+    <testcase name="download Moldova" time="4.627" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

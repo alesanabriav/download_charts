@@ -1,0 +1,19 @@
+19:23:36.442 INFO - Launching a standalone Selenium Server
+19:23:36.476 INFO - Java: Oracle Corporation 25.91-b14
+19:23:36.476 INFO - OS: Mac OS X 10.11.5 x86_64
+19:23:36.485 INFO - v2.47.1, with Core v2.47.1. Built from revision 411b314
+19:23:36.546 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform MAC
+19:23:36.546 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform MAC
+19:23:36.547 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+19:23:36.547 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+19:23:36.636 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+19:23:36.636 INFO - Selenium Server is up and running
+19:23:36.937 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Index, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+19:23:36.952 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Index, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver (v2.9.248307) on port 14800
+19:23:38.721 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Index, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+19:23:38.741 INFO - Executing: [delete session: d4a17077-330d-411f-a063-2378f7c432b1])
+19:23:41.344 INFO - Command failed to close cleanly. Destroying forcefully (v2). [/Users/dev/apps/download_charts/chromedriver, --port=14800][ {}]
+19:23:41.348 INFO - Done: [delete session: d4a17077-330d-411f-a063-2378f7c432b1]
